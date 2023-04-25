@@ -2,8 +2,8 @@
 Repositorio de prueba para comandos de Git 
 
 ## Autor 
-* Rivarola Garzon ** Valentina ** 
-* Ortiz ** Paulina **
+* Rivarola Garzon **Valentina** 
+* Ortiz **Paulina**
 
 ## Contenido/Descripcion
 
